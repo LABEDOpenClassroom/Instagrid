@@ -10,10 +10,43 @@
 		DB1B499D2B9C9A6F00B2A724 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB1B499C2B9C9A6F00B2A724 /* AppDelegate.swift */; };
 		DB1B499F2B9C9A6F00B2A724 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB1B499E2B9C9A6F00B2A724 /* SceneDelegate.swift */; };
 		DB1B49A12B9C9A6F00B2A724 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB1B49A02B9C9A6F00B2A724 /* ViewController.swift */; };
-		DB1B49A42B9C9A6F00B2A724 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB1B49A22B9C9A6F00B2A724 /* Main.storyboard */; };
 		DB1B49A72B9C9A6F00B2A724 /* InstaGrid.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DB1B49A52B9C9A6F00B2A724 /* InstaGrid.xcdatamodeld */; };
 		DB1B49A92B9C9A7000B2A724 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB1B49A82B9C9A7000B2A724 /* Assets.xcassets */; };
 		DB1B49AC2B9C9A7000B2A724 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB1B49AA2B9C9A7000B2A724 /* LaunchScreen.storyboard */; };
+		DB1B49B42B9C9CC800B2A724 /* Icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB1B49B32B9C9CC800B2A724 /* Icon@3x.png */; };
+		DB60EBCF2BA0785300D43702 /* ThirstySoftRegular.otf in Resources */ = {isa = PBXBuildFile; fileRef = DB60EBCE2BA0785300D43702 /* ThirstySoftRegular.otf */; };
+		DB60EBD12BA0787900D43702 /* Delm-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = DB60EBD02BA0787900D43702 /* Delm-Medium.otf */; };
+		DB8CA92D2BA9D9E700070360 /* Arrow Up@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA92C2BA9D9E700070360 /* Arrow Up@3x.png */; };
+		DB8CA92F2BA9DAE400070360 /* Arrow Up@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA92E2BA9DAE400070360 /* Arrow Up@2x.png */; };
+		DB8CA9312BA9DAF700070360 /* Arrow Up.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA9302BA9DAF700070360 /* Arrow Up.png */; };
+		DB8CA9332BAB09FB00070360 /* Layout 2@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA9322BAB09FB00070360 /* Layout 2@3x.png */; };
+		DB8CA94E2BAB0E9B00070360 /* Layout 1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA9342BAB0E9B00070360 /* Layout 1@2x.png */; };
+		DB8CA94F2BAB0E9B00070360 /* Layout 2@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA9352BAB0E9B00070360 /* Layout 2@3x.png */; };
+		DB8CA9502BAB0E9B00070360 /* Arrow Up@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA9362BAB0E9B00070360 /* Arrow Up@3x.png */; };
+		DB8CA9512BAB0E9B00070360 /* Layout 3@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA9372BAB0E9B00070360 /* Layout 3@3x.png */; };
+		DB8CA9522BAB0E9B00070360 /* Plus@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA9382BAB0E9B00070360 /* Plus@3x.png */; };
+		DB8CA9532BAB0E9B00070360 /* Plus.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA9392BAB0E9B00070360 /* Plus.png */; };
+		DB8CA9542BAB0E9B00070360 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA93A2BAB0E9B00070360 /* Icon.png */; };
+		DB8CA9552BAB0E9B00070360 /* Icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA93B2BAB0E9B00070360 /* Icon@3x.png */; };
+		DB8CA9562BAB0E9B00070360 /* Arrow Left@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA93C2BAB0E9B00070360 /* Arrow Left@3x.png */; };
+		DB8CA9572BAB0E9B00070360 /* Layout 3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA93D2BAB0E9B00070360 /* Layout 3@2x.png */; };
+		DB8CA9582BAB0E9B00070360 /* Plus@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA93E2BAB0E9B00070360 /* Plus@2x.png */; };
+		DB8CA9592BAB0E9B00070360 /* Layout 1.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA93F2BAB0E9B00070360 /* Layout 1.png */; };
+		DB8CA95A2BAB0E9B00070360 /* Instagrid@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA9402BAB0E9B00070360 /* Instagrid@2x.png */; };
+		DB8CA95B2BAB0E9B00070360 /* Selected.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA9412BAB0E9B00070360 /* Selected.png */; };
+		DB8CA95C2BAB0E9B00070360 /* Layout 2.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA9422BAB0E9B00070360 /* Layout 2.png */; };
+		DB8CA95D2BAB0E9B00070360 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA9432BAB0E9B00070360 /* Icon@2x.png */; };
+		DB8CA95E2BAB0E9B00070360 /* Instagrid@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA9442BAB0E9B00070360 /* Instagrid@3x.png */; };
+		DB8CA95F2BAB0E9B00070360 /* Arrow Up@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA9452BAB0E9B00070360 /* Arrow Up@2x.png */; };
+		DB8CA9602BAB0E9B00070360 /* Arrow Left.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA9462BAB0E9B00070360 /* Arrow Left.png */; };
+		DB8CA9612BAB0E9B00070360 /* Instagrid.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA9472BAB0E9B00070360 /* Instagrid.png */; };
+		DB8CA9622BAB0E9B00070360 /* Layout 2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA9482BAB0E9B00070360 /* Layout 2@2x.png */; };
+		DB8CA9632BAB0E9B00070360 /* Arrow Left@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA9492BAB0E9B00070360 /* Arrow Left@2x.png */; };
+		DB8CA9642BAB0E9B00070360 /* Selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA94A2BAB0E9B00070360 /* Selected@2x.png */; };
+		DB8CA9652BAB0E9B00070360 /* Layout 3.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA94B2BAB0E9B00070360 /* Layout 3.png */; };
+		DB8CA9662BAB0E9B00070360 /* Arrow Up.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA94C2BAB0E9B00070360 /* Arrow Up.png */; };
+		DB8CA9672BAB0E9B00070360 /* Selected@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8CA94D2BAB0E9B00070360 /* Selected@3x.png */; };
+		DBF8A5422BAC465700CB3F4C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DBF8A5412BAC465700CB3F4C /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,11 +54,44 @@
 		DB1B499C2B9C9A6F00B2A724 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DB1B499E2B9C9A6F00B2A724 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		DB1B49A02B9C9A6F00B2A724 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		DB1B49A32B9C9A6F00B2A724 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DB1B49A62B9C9A6F00B2A724 /* InstaGrid.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = InstaGrid.xcdatamodel; sourceTree = "<group>"; };
 		DB1B49A82B9C9A7000B2A724 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB1B49AB2B9C9A7000B2A724 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DB1B49AD2B9C9A7000B2A724 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB1B49B32B9C9CC800B2A724 /* Icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon@3x.png"; path = "../../../Downloads/exports/Icon@3x.png"; sourceTree = "<group>"; };
+		DB60EBCE2BA0785300D43702 /* ThirstySoftRegular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = ThirstySoftRegular.otf; path = ../../../Downloads/ThirstySoftRegular.otf; sourceTree = "<group>"; };
+		DB60EBD02BA0787900D43702 /* Delm-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Delm-Medium.otf"; path = "../../../Downloads/Delm-Medium.otf"; sourceTree = "<group>"; };
+		DB8CA92C2BA9D9E700070360 /* Arrow Up@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Arrow Up@3x.png"; path = "../../../Downloads/exports/Arrow Up@3x.png"; sourceTree = "<group>"; };
+		DB8CA92E2BA9DAE400070360 /* Arrow Up@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Arrow Up@2x.png"; path = "../../../Downloads/exports/Arrow Up@2x.png"; sourceTree = "<group>"; };
+		DB8CA9302BA9DAF700070360 /* Arrow Up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Arrow Up.png"; path = "../../../Downloads/exports/Arrow Up.png"; sourceTree = "<group>"; };
+		DB8CA9322BAB09FB00070360 /* Layout 2@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Layout 2@3x.png"; path = "../../../Downloads/exports/Layout 2@3x.png"; sourceTree = "<group>"; };
+		DB8CA9342BAB0E9B00070360 /* Layout 1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Layout 1@2x.png"; path = "../../../Downloads/exports/Layout 1@2x.png"; sourceTree = "<group>"; };
+		DB8CA9352BAB0E9B00070360 /* Layout 2@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Layout 2@3x.png"; path = "../../../Downloads/exports/Layout 2@3x.png"; sourceTree = "<group>"; };
+		DB8CA9362BAB0E9B00070360 /* Arrow Up@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Arrow Up@3x.png"; path = "../../../Downloads/exports/Arrow Up@3x.png"; sourceTree = "<group>"; };
+		DB8CA9372BAB0E9B00070360 /* Layout 3@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Layout 3@3x.png"; path = "../../../Downloads/exports/Layout 3@3x.png"; sourceTree = "<group>"; };
+		DB8CA9382BAB0E9B00070360 /* Plus@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Plus@3x.png"; path = "../../../Downloads/exports/Plus@3x.png"; sourceTree = "<group>"; };
+		DB8CA9392BAB0E9B00070360 /* Plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Plus.png; path = ../../../Downloads/exports/Plus.png; sourceTree = "<group>"; };
+		DB8CA93A2BAB0E9B00070360 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = ../../../Downloads/exports/Icon.png; sourceTree = "<group>"; };
+		DB8CA93B2BAB0E9B00070360 /* Icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon@3x.png"; path = "../../../Downloads/exports/Icon@3x.png"; sourceTree = "<group>"; };
+		DB8CA93C2BAB0E9B00070360 /* Arrow Left@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Arrow Left@3x.png"; path = "../../../Downloads/exports/Arrow Left@3x.png"; sourceTree = "<group>"; };
+		DB8CA93D2BAB0E9B00070360 /* Layout 3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Layout 3@2x.png"; path = "../../../Downloads/exports/Layout 3@2x.png"; sourceTree = "<group>"; };
+		DB8CA93E2BAB0E9B00070360 /* Plus@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Plus@2x.png"; path = "../../../Downloads/exports/Plus@2x.png"; sourceTree = "<group>"; };
+		DB8CA93F2BAB0E9B00070360 /* Layout 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Layout 1.png"; path = "../../../Downloads/exports/Layout 1.png"; sourceTree = "<group>"; };
+		DB8CA9402BAB0E9B00070360 /* Instagrid@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Instagrid@2x.png"; path = "../../../Downloads/exports/Instagrid@2x.png"; sourceTree = "<group>"; };
+		DB8CA9412BAB0E9B00070360 /* Selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Selected.png; path = ../../../Downloads/exports/Selected.png; sourceTree = "<group>"; };
+		DB8CA9422BAB0E9B00070360 /* Layout 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Layout 2.png"; path = "../../../Downloads/exports/Layout 2.png"; sourceTree = "<group>"; };
+		DB8CA9432BAB0E9B00070360 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon@2x.png"; path = "../../../Downloads/exports/Icon@2x.png"; sourceTree = "<group>"; };
+		DB8CA9442BAB0E9B00070360 /* Instagrid@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Instagrid@3x.png"; path = "../../../Downloads/exports/Instagrid@3x.png"; sourceTree = "<group>"; };
+		DB8CA9452BAB0E9B00070360 /* Arrow Up@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Arrow Up@2x.png"; path = "../../../Downloads/exports/Arrow Up@2x.png"; sourceTree = "<group>"; };
+		DB8CA9462BAB0E9B00070360 /* Arrow Left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Arrow Left.png"; path = "../../../Downloads/exports/Arrow Left.png"; sourceTree = "<group>"; };
+		DB8CA9472BAB0E9B00070360 /* Instagrid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Instagrid.png; path = ../../../Downloads/exports/Instagrid.png; sourceTree = "<group>"; };
+		DB8CA9482BAB0E9B00070360 /* Layout 2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Layout 2@2x.png"; path = "../../../Downloads/exports/Layout 2@2x.png"; sourceTree = "<group>"; };
+		DB8CA9492BAB0E9B00070360 /* Arrow Left@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Arrow Left@2x.png"; path = "../../../Downloads/exports/Arrow Left@2x.png"; sourceTree = "<group>"; };
+		DB8CA94A2BAB0E9B00070360 /* Selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Selected@2x.png"; path = "../../../Downloads/exports/Selected@2x.png"; sourceTree = "<group>"; };
+		DB8CA94B2BAB0E9B00070360 /* Layout 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Layout 3.png"; path = "../../../Downloads/exports/Layout 3.png"; sourceTree = "<group>"; };
+		DB8CA94C2BAB0E9B00070360 /* Arrow Up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Arrow Up.png"; path = "../../../Downloads/exports/Arrow Up.png"; sourceTree = "<group>"; };
+		DB8CA94D2BAB0E9B00070360 /* Selected@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Selected@3x.png"; path = "../../../Downloads/exports/Selected@3x.png"; sourceTree = "<group>"; };
+		DBF8A5412BAC465700CB3F4C /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../../../../.Trash/Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,16 +124,73 @@
 		DB1B499B2B9C9A6F00B2A724 /* InstaGrid */ = {
 			isa = PBXGroup;
 			children = (
-				DB1B499C2B9C9A6F00B2A724 /* AppDelegate.swift */,
+				DB1B49B72B9E315C00B2A724 /* View */,
+				DB1B49B62B9E314000B2A724 /* Controler */,
+				DB1B49B52B9E311100B2A724 /* Model */,
 				DB1B499E2B9C9A6F00B2A724 /* SceneDelegate.swift */,
-				DB1B49A02B9C9A6F00B2A724 /* ViewController.swift */,
-				DB1B49A22B9C9A6F00B2A724 /* Main.storyboard */,
-				DB1B49A82B9C9A7000B2A724 /* Assets.xcassets */,
+				DB60EBCE2BA0785300D43702 /* ThirstySoftRegular.otf */,
+				DB60EBD02BA0787900D43702 /* Delm-Medium.otf */,
+				DB8CA9432BAB0E9B00070360 /* Icon@2x.png */,
+				DB1B49B32B9C9CC800B2A724 /* Icon@3x.png */,
+				DB1B499C2B9C9A6F00B2A724 /* AppDelegate.swift */,
 				DB1B49AA2B9C9A7000B2A724 /* LaunchScreen.storyboard */,
-				DB1B49AD2B9C9A7000B2A724 /* Info.plist */,
 				DB1B49A52B9C9A6F00B2A724 /* InstaGrid.xcdatamodeld */,
+				DB1B49A82B9C9A7000B2A724 /* Assets.xcassets */,
+				DB1B49AD2B9C9A7000B2A724 /* Info.plist */,
+				DB8CA9462BAB0E9B00070360 /* Arrow Left.png */,
+				DB8CA9492BAB0E9B00070360 /* Arrow Left@2x.png */,
+				DB8CA93C2BAB0E9B00070360 /* Arrow Left@3x.png */,
+				DB8CA94C2BAB0E9B00070360 /* Arrow Up.png */,
+				DB8CA9452BAB0E9B00070360 /* Arrow Up@2x.png */,
+				DB8CA9362BAB0E9B00070360 /* Arrow Up@3x.png */,
+				DB8CA93A2BAB0E9B00070360 /* Icon.png */,
+				DB8CA93B2BAB0E9B00070360 /* Icon@3x.png */,
+				DB8CA9472BAB0E9B00070360 /* Instagrid.png */,
+				DB8CA9402BAB0E9B00070360 /* Instagrid@2x.png */,
+				DB8CA9442BAB0E9B00070360 /* Instagrid@3x.png */,
+				DB8CA93F2BAB0E9B00070360 /* Layout 1.png */,
+				DB8CA9342BAB0E9B00070360 /* Layout 1@2x.png */,
+				DB8CA9422BAB0E9B00070360 /* Layout 2.png */,
+				DB8CA9482BAB0E9B00070360 /* Layout 2@2x.png */,
+				DB8CA9352BAB0E9B00070360 /* Layout 2@3x.png */,
+				DB8CA94B2BAB0E9B00070360 /* Layout 3.png */,
+				DB8CA93D2BAB0E9B00070360 /* Layout 3@2x.png */,
+				DB8CA9372BAB0E9B00070360 /* Layout 3@3x.png */,
+				DB8CA9392BAB0E9B00070360 /* Plus.png */,
+				DB8CA93E2BAB0E9B00070360 /* Plus@2x.png */,
+				DB8CA9382BAB0E9B00070360 /* Plus@3x.png */,
+				DB8CA9412BAB0E9B00070360 /* Selected.png */,
+				DB8CA94A2BAB0E9B00070360 /* Selected@2x.png */,
+				DB8CA94D2BAB0E9B00070360 /* Selected@3x.png */,
+				DB8CA92C2BA9D9E700070360 /* Arrow Up@3x.png */,
+				DB8CA9302BA9DAF700070360 /* Arrow Up.png */,
+				DB8CA92E2BA9DAE400070360 /* Arrow Up@2x.png */,
+				DB8CA9322BAB09FB00070360 /* Layout 2@3x.png */,
 			);
 			path = InstaGrid;
+			sourceTree = "<group>";
+		};
+		DB1B49B52B9E311100B2A724 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		DB1B49B62B9E314000B2A724 /* Controler */ = {
+			isa = PBXGroup;
+			children = (
+				DB1B49A02B9C9A6F00B2A724 /* ViewController.swift */,
+			);
+			path = Controler;
+			sourceTree = "<group>";
+		};
+		DB1B49B72B9E315C00B2A724 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				DBF8A5412BAC465700CB3F4C /* Main.storyboard */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,9 +251,42 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DB8CA9662BAB0E9B00070360 /* Arrow Up.png in Resources */,
+				DB8CA95B2BAB0E9B00070360 /* Selected.png in Resources */,
+				DB8CA95D2BAB0E9B00070360 /* Icon@2x.png in Resources */,
+				DB8CA9592BAB0E9B00070360 /* Layout 1.png in Resources */,
+				DB8CA9562BAB0E9B00070360 /* Arrow Left@3x.png in Resources */,
+				DB8CA9632BAB0E9B00070360 /* Arrow Left@2x.png in Resources */,
+				DB8CA9542BAB0E9B00070360 /* Icon.png in Resources */,
+				DB8CA9512BAB0E9B00070360 /* Layout 3@3x.png in Resources */,
+				DB8CA94E2BAB0E9B00070360 /* Layout 1@2x.png in Resources */,
+				DB8CA95C2BAB0E9B00070360 /* Layout 2.png in Resources */,
+				DB8CA95E2BAB0E9B00070360 /* Instagrid@3x.png in Resources */,
 				DB1B49AC2B9C9A7000B2A724 /* LaunchScreen.storyboard in Resources */,
+				DB8CA9552BAB0E9B00070360 /* Icon@3x.png in Resources */,
+				DB8CA95A2BAB0E9B00070360 /* Instagrid@2x.png in Resources */,
+				DB8CA9502BAB0E9B00070360 /* Arrow Up@3x.png in Resources */,
+				DBF8A5422BAC465700CB3F4C /* Main.storyboard in Resources */,
 				DB1B49A92B9C9A7000B2A724 /* Assets.xcassets in Resources */,
-				DB1B49A42B9C9A6F00B2A724 /* Main.storyboard in Resources */,
+				DB8CA9522BAB0E9B00070360 /* Plus@3x.png in Resources */,
+				DB8CA92D2BA9D9E700070360 /* Arrow Up@3x.png in Resources */,
+				DB60EBD12BA0787900D43702 /* Delm-Medium.otf in Resources */,
+				DB8CA9652BAB0E9B00070360 /* Layout 3.png in Resources */,
+				DB8CA9602BAB0E9B00070360 /* Arrow Left.png in Resources */,
+				DB8CA94F2BAB0E9B00070360 /* Layout 2@3x.png in Resources */,
+				DB8CA9612BAB0E9B00070360 /* Instagrid.png in Resources */,
+				DB8CA9312BA9DAF700070360 /* Arrow Up.png in Resources */,
+				DB8CA92F2BA9DAE400070360 /* Arrow Up@2x.png in Resources */,
+				DB8CA9582BAB0E9B00070360 /* Plus@2x.png in Resources */,
+				DB60EBCF2BA0785300D43702 /* ThirstySoftRegular.otf in Resources */,
+				DB8CA9332BAB09FB00070360 /* Layout 2@3x.png in Resources */,
+				DB8CA9622BAB0E9B00070360 /* Layout 2@2x.png in Resources */,
+				DB1B49B42B9C9CC800B2A724 /* Icon@3x.png in Resources */,
+				DB8CA9672BAB0E9B00070360 /* Selected@3x.png in Resources */,
+				DB8CA95F2BAB0E9B00070360 /* Arrow Up@2x.png in Resources */,
+				DB8CA9572BAB0E9B00070360 /* Layout 3@2x.png in Resources */,
+				DB8CA9642BAB0E9B00070360 /* Selected@2x.png in Resources */,
+				DB8CA9532BAB0E9B00070360 /* Plus.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -151,14 +307,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		DB1B49A22B9C9A6F00B2A724 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				DB1B49A32B9C9A6F00B2A724 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		DB1B49AA2B9C9A7000B2A724 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -303,6 +451,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -310,9 +459,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.openclassroom.InstaGrid;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -330,6 +482,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -337,9 +490,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.openclassroom.InstaGrid;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
